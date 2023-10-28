@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Almacenamiento</string>
+    <string name="btn_ingresar">Ingresar nombre</string>
+    <string name="btn_agenda">Agenda</string>
+    <string name="btn_Cronometro">Cronometro</string>
+    <string name="btn_TimePicket">TimePicker</string>
+    <string name="btn_sharePreferences">SharePreferences</string>
+    <string name="btn_Blockdenotas">Block de notas</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="txt_email">ingrese un Email</string>
+    <string name="btn_Guardar_Agenda">Guardar</string>
+    <string name="txt_nombre">Ingrese Nombre</string>
+    <string name="txt_apellido">Ingrese Apellido</string>
+    <string name="btn_Buscar">Buscar</string>
+    <string name="btn_GuardarNotas">Guardar</string>
+    <string name="txt_Notas">Ingrese un texto aquí</string>
+    <string name="et_nombre">Ingresa tu nombre</string>
+    <string name="btn_Continuar">Continuar</string>
+    <string name="btn_Calificar">Calificar</string>
+    <string name="txt_Bienvenido">Bienvenido</string>
+</resources>
